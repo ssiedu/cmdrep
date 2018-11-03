@@ -1,0 +1,29 @@
+1) git init 
+
+	to initialize a git local repository
+
+2) git clone "url.git"
+
+	to clone a project
+
+3) git status 
+	to check the update status of project
+
+4) git remote add origin https://github.com/manojs121/test.git
+	to connect your local repository with remote repository.
+
+5) git add xyz.txt
+	to add a single file xyz.txt to staging area.
+
+6) git commit -m "first-commit"
+	to commit the staging area to local repository.
+
+7) git add -A 
+	to add all new or modified files to staging area.
+
+8) git push origin master
+	to push the changes from local to remote repository
+
+8) git pull origin master
+	to merge the updated contents of last commit to your project
+
